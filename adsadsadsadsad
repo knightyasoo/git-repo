@@ -1,0 +1,104 @@
+[1mdiff --cc index.html[m
+[1mindex ee56a42,44f8582..0000000[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@@ -83,11 -83,93 +83,97 @@@[m
+  </section>[m
+  <section class="section-speakers" id="speakers"> [m
+      <div class="container">[m
+[31m-          <h2 class="sub-title">[m
+[31m-             <i class="glyphicon glyphicon-time vertical-middle"></i> [m
+[32m+         <h2 class="sub-title">[m
+[32m+             <i class="glyphicon glyphicon-bullhorn vertical-middle"></i> [m
+              <span class="vertical-middle">Speakers</span>[m
+          </h2>[m
+[32m++<<<<<<< HEAD[m
+[32m +        <p style="color:white">업데이트 예정...</p>   [m
+[32m++=======[m
+[32m+         <ul class="speakers">[m
+[32m+             <li  data-info="FRENDS">[m
+[32m+                 <div class="spearks-image">[m
+[32m+                     <a href="https://twitter.com/fallroot" target="_blank">[m
+[32m+                         <img src="/assets/images/fallroot.png">[m
+[32m+                     </a>[m
+[32m+                     <span class="speaker-name">문추근</span>[m
+[32m+                     <span class="speaker-twitter">@fallroot</span>[m
+[32m+                 </div>[m
+[32m+             </li>[m
+[32m+             <li  data-info="FRENDS">[m
+[32m+                 <div class="spearks-image">[m
+[32m+                     <a href="https://twitter.com/odyss009" target="_blank">[m
+[32m+                         <img src="/assets/images/oddyss.jpg">[m
+[32m+                     </a>[m
+[32m+                     <span class="speaker-name">임형주</span>[m
+[32m+                     <span class="speaker-twitter">@odyss</span>[m
+[32m+                 </div>[m
+[32m+             </li>[m
+[32m+             <li  data-info="FRENDS">[m
+[32m+                 <div class="spearks-image">[m
+[32m+                     <a href="https://twitter.com/Outsideris" target="_blank">[m
+[32m+                         <img src="/assets/images/outsider.jpg">[m
+[32m+                     </a>[m
+[32m+                     <span class="speaker-name">변정훈</span>[m
+[32m+                     <span class="speaker-twitter">@Outsider</span>[m
+[32m+                 </div>[m
+[32m+             </li>[m
+[32m+             <li  data-info="FRENDS">[m
+[32m+                 <div class="spearks-image">[m
+[32m+                     <a href="https://twitter.com/_freestrings" target="_blank">[m
+[32m+                         <img src="/assets/images/freestring.jpeg">[m
+[32m+                     </a>[m
+[32m+                     <span class="speaker-name">한창석</span>[m
+[32m+                     <span class="speaker-twitter">@_freestrings</span>[m
+[32m+                 </div>[m
+[32m+             </li>[m
+[32m+             <li  data-info="FRENDS">[m
+[32m+                 <div class="spearks-image">[m
+[32m+                     <a href="https://twitter.com/zziuni" target="_blank">[m
+[32m+                         <img src="/assets/images/zziuni.jpeg">[m
+[32m+                     </a>[m
+[32m+                     <span class="speaker-name">변치훈</span>[m
+[32m+                     <span class="speaker-twitter">@zziuni</span>[m
+[32m+                 </div>[m
+[32m+             </li>[m
+[32m+             <li  data-info="GUEST">[m
+[32m+                 <div class="spearks-image">[m
+[32m+                     <a href="https://twitter.com/semtlnori" target="_blank">[m
+[32m+                         <img src="/assets/images/semtlnori.jpg">[m
+[32m+                     </a>    [m
+[32m+                     <span class="speaker-name">이응준</span>[m
+[32m+                     <span class="speaker-twitter">@semtlnori</span>[m
+[32m+                 </div>[m
+[32m+             </li>[m
+[32m+             <li  data-info="FRENDS">[m
+[32m+                  <div class="spearks-image">[m
+[32m+                     <a href="https://twitter.com/insanehong" target="_blank">[m
+[32m+                         <img src="/assets/images/insanehong.jpeg">[m
+[32m+                     </a>[m
+[32m+                     <span class="speaker-name">김덕홍</span>[m
+[32m+                     <span class="speaker-twitter">@insanehong</span>[m
+[32m+                 </div>[m
+[32m+             </li>[m
+[32m+             <li data-info="GUEST">[m
+[32m+                 <div class="spearks-image">[m
+[32m+                     <a href="https://twitter.com/Rhiokim" target="_blank">[m
+[32m+                         <img src="/assets/images/rhio.png">[m
+[32m+                     </a>[m
+[32m+                     <span class="speaker-name">김양원</span>[m
+[32m+                     <span class="speaker-twitter">@Rhiokim</span>[m
+[32m+                 </div>[m
+[32m+             </li>[m
+[32m+             <li data-info="GUEST">[m
+[32m+                 <div class="spearks-image">[m
+[32m+                     <a href="https://twitter.com/coderifleman" target="_blank">[m
+[32m+                         <img src="/assets/images/coderifleman.jpeg">[m
+[32m+                     </a>[m
+[32m+                     <span class="speaker-name">주우영</span>[m
+[32m+                     <span class="speaker-twitter">@coderifleman</span>[m
+[32m+                 </div>[m
+[32m+             </li>[m
+[32m+         </ul>[m
+[32m++>>>>>>> update[m
+      </div>[m
+  </section>[m
+  <section class="section-schedule" id="schedule">[m
